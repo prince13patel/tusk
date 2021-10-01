@@ -3,5 +3,7 @@ kheer
 pasta
 mango
 
+beans
+pizza
 
 thank you
